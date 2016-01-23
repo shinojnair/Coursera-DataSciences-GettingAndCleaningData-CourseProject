@@ -1,7 +1,7 @@
 ## Coursera Getting And Cleaning Data Course Project
 
 ### Purpose
-This project is to demonstrate ability to collect, work with, and clean a data set. 
+To demonstrate ability to collect, work with, and clean a data set. 
 
 ### Goal 
 To prepare tidy data for analysis.
