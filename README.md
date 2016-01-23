@@ -1,10 +1,13 @@
-## Coursera GettingAndCleaningData CourseProject
+## Coursera Getting And Cleaning Data Course Project
 
-### The purpose of this project is to demonstrate ability to collect, work with, and clean a data set. 
+### Purpose
+This project is to demonstrate ability to collect, work with, and clean a data set. 
 
-### The goal is to prepare tidy data for analysis.
+### Goal 
+To prepare tidy data for analysis.
 
-### Data for the project https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+### Data for the project 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ### Data Information
 The Dataset contains observations on human activity captured from wearables like smartphone.
