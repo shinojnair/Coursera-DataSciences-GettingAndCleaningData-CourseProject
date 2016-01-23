@@ -7,9 +7,9 @@
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
 Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone on the waist. 
  
-The obtained dataset has been randomly partitioned into two sets
-    - 70% of the volunteers was selected for generating the training data.
-    - 30% of the volunteers was selected for generating the test data. 
+The obtained dataset has been randomly partitioned into two sets:
+    * 70% of the volunteers was selected for generating the training data.
+    * 30% of the volunteers was selected for generating the test data. 
 
 ##### Files
 These are the files used from the data set with their short desctiption :
