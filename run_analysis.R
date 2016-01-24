@@ -61,4 +61,4 @@ tidy_data <- dtAllData %>%
         arrange(Activity, Subject)
 
 ## Expor the tidy_data data table with clean data to a tab delimited file
-write.table(tidy_data, file = "tidy_data.txt")
+write.table(tidy_data, file = "tidy_data.txt", row.names = FALSE)
